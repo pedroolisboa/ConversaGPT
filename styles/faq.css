@@ -19,7 +19,6 @@
     --cor-btn: #EDF2F7;
     --box-cor-background: #272D38;
     --em-foco: #dadfe5;
-
 }
 
 * {
@@ -117,3 +116,6 @@ svg {
 .accordion-body {
     color: white;
 }
+
+.faq-div {
+    color: var(--cor-de-texto);
